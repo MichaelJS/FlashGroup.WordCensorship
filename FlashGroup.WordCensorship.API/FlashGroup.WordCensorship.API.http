@@ -1,0 +1,6 @@
+@FlashGroup.WordCensorship.API_HostAddress = http://localhost:5173
+
+GET {{FlashGroup.WordCensorship.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
