@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="FlashGroup.WordCensorship.API/FlashGroup.WordCensorship.API.csproj" />
+  <Project Path="FlashGroup.WordCensorship.Data/FlashGroup.WordCensorship.Data.csproj" Id="439ba776-2b8a-4b54-afaa-86f8e7065e2b" />
+  <Project Path="FlashGroup.WordCensorship.Domain/FlashGroup.WordCensorship.Domain.csproj" />
+  <Project Path="FlashGroup.WordCensorship.Tests/FlashGroup.WordCensorship.Tests.csproj" Id="857c1d42-84c2-41bb-a3ac-a782b68dbec0" />
 </Solution>
